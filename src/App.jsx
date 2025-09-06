@@ -10,7 +10,7 @@ import EventDetails from './components/EventDetails.jsx';
 import Login from './components/Login.jsx';
 import Register from './components/Register.jsx';
 import Analytics from './components/Analytics.jsx';
-import Settings from './components/Settings';
+// import Settings from './components/Settings';
 import { AnimatePresence } from 'framer-motion';
 
 function App() {
@@ -57,13 +57,13 @@ function App() {
                 isAuthenticated ? <Analytics /> : <Navigate to="/login" />
               }
             />
-            <Route
+            /* <Route
               path="/settings"
               element={
                 isAuthenticated ? <Settings /> : <Navigate to="/login" />
               }
             />
-          </Route>
+          </Route> */
         </Routes>
       </AnimatePresence>
     </Router>
