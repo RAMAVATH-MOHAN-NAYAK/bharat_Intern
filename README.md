@@ -3,6 +3,10 @@
 This project is built using **React** with **Vite** as the build tool, providing a blazing fast development environment and modern frontend setup. It is part of my **Bharat Intern** program tasks/projects.  
 
 ---
+# Bharat Intern Project  
+
+This project is deployed on **Vercel**.  
+👉 [Live Site](https://bharat-intern-rho.vercel.app/)  
 
 ## 🚀 Features  
 
@@ -46,3 +50,4 @@ bharat_intern/
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 ```
+
